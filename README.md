@@ -46,3 +46,6 @@ Para realizara esta calculadora IMC se realizo los siguiente
     
 #Colocamos la siguiente sentencia para hcer que el ciclo termine
     personas = personas - 1
+
+
+En conclusion, lo que nos ha dejado el bootcamp es el saber como son los fundamentos basicos de Python y tembien el saber que es unos de los lenguajes por excelencia, uno de los mas usados y mas versátiles en diferentes industrias. Asi como tambien uno de los mas faciles de aprender.
